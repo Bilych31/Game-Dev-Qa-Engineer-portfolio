@@ -28,66 +28,66 @@
 
 ---
 
-### 2. Консольное тестирование (Black Mesa)
-[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Консольное%20тестирование%20(Black%20Mesa))
-
-Тест-кейсы для PC, PlayStation (DualSense, трофеи, спящий режим) и Nintendo Switch (портативный/док-режим, энергоэффективность). Проверка сохранений, управления, UI, производительности.
-
----
-
-### 3. REST API тестирование (PetStore)
+### 2. REST API тестирование (PetStore)
 [📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Базовые%20навыки%20Rest%20API)
 
 Коллекция из 8 запросов в Postman: добавление, поиск, создание заказа, изменение статуса.
 
 ---
 
-### 4. Мобильная монетизация (Flippy Knife)
-[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Мобильные%20игры%20–%20реклама%20и%20IAP%20(Flippy%20Knife))
+### 3. Тестирование уровня (18 баг-репортов)
+[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Тестирование%20уровня%20(18%20баг-репортов))
 
-Таблицы рекламных точек (Rewarded, Interstitial, Banner) и IAP (Consumable, Non-Consumable, Subscription).
-
----
-
-### 5. Локализация (Religion Inc)
-[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Локализация%20Religion%20Inc%20(чек-лист%20и%20арабский%20регион))
-
-Чек-лист локализации, анализ ограничений для арабского региона, найденная ошибка в английской версии.
+Баг-репорты прототипа уровня: провалы сквозь стены, неработающий Jetpack, враг без реакции и другие.
 
 ---
 
-### 6. Браузерные игры vs соцсети (Super City)
-[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Браузерные%20игры%20и%20соцсети)
-
-Сравнение авторизации, платежей, API, прав доступа, уведомлений и рекламы.
-
----
-
-### 7. Тест-дизайн (эквивалентность, границы, таблица решений)
-[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Тест-дизайн%20(эквивалентность,%20границы,%20таблица%20решений))
-
-Применение классов эквивалентности, граничных значений и таблицы принятия решений.
-
----
-
-### 8. Планирование и оценка трудозатрат
-[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Планирование%20и%20оценка%20трудозатрат)
-
-Расчёт по трём точкам (оптимистичный, реалистичный, пессимистичный) для тестирования игрового события.
-
----
-
-### 9. Unity PlayMode автотест
+### 4. Unity PlayMode автотест
 [📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Unity%20PlayMode%20автотест)
 
 Сценарный автотест на C# для проверки подбора монет. Обход бага NUnit (Assert.IsTrue(coin == null)).
 
 ---
 
-### 10. Тестирование уровня (18 баг-репортов)
-[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Тестирование%20уровня%20(18%20баг-репортов))
+### 5. Планирование и оценка трудозатрат
+[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Планирование%20и%20оценка%20трудозатрат)
 
-Баг-репорты прототипа уровня: провалы сквозь стены, неработающий Jetpack, враг без реакции и другие.
+Расчёт по трём точкам (оптимистичный, реалистичный, пессимистичный) для тестирования игрового события.
+
+---
+
+### 6. Консольное тестирование (Black Mesa)
+[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Консольное%20тестирование%20(Black%20Mesa))
+
+Тест-кейсы для PC, PlayStation (DualSense, трофеи, спящий режим) и Nintendo Switch (портативный/док-режим, энергоэффективность). Проверка сохранений, управления, UI, производительности.
+
+---
+
+### 7. Мобильная монетизация (Flippy Knife)
+[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Мобильные%20игры%20–%20реклама%20и%20IAP%20(Flippy%20Knife))
+
+Таблицы рекламных точек (Rewarded, Interstitial, Banner) и IAP (Consumable, Non-Consumable, Subscription).
+
+---
+
+### 8. Локализация (Religion Inc)
+[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Локализация%20Religion%20Inc%20(чек-лист%20и%20арабский%20регион))
+
+Чек-лист локализации, анализ ограничений для арабского региона, найденная ошибка в английской версии.
+
+---
+
+### 9. Браузерные игры vs соцсети (Super City)
+[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Браузерные%20игры%20и%20соцсети)
+
+Сравнение авторизации, платежей, API, прав доступа, уведомлений и рекламы.
+
+---
+
+### 10. Тест-дизайн (эквивалентность, границы, таблица решений)
+[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Тест-дизайн%20(эквивалентность,%20границы,%20таблица%20решений))
+
+Применение классов эквивалентности, граничных значений и таблицы принятия решений.
 
 ---
 
@@ -116,7 +116,5 @@
 - Telegram: [@bilych31](https://t.me/bilych31)
 - Телефон: +7 (919) 288-28-50
 - Email: artbilych@yandex.ru
-
-© 2026 Данил Билыч
 
 © 2026 Данил Билыч
