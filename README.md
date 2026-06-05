@@ -29,7 +29,7 @@
 ---
 
 ### 2. Консольное тестирование (Black Mesa)
-[📁 Перейти к папке](https://github.com/Bilych31/game-qa-portfolio/tree/main/Консольное%20тестирование%20(Black%20Mesa))
+[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Консольное%20тестирование%20(Black%20Mesa))
 
 Тест-кейсы для PC, PlayStation (DualSense, трофеи, спящий режим) и Nintendo Switch (портативный/док-режим, энергоэффективность). Проверка сохранений, управления, UI, производительности.
 
