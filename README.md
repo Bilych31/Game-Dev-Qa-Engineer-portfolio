@@ -17,7 +17,9 @@
 ## 🗂️ Проекты
 
 ### 1. ⭐ Проектная работа: Полное тестирование «Мир Танков» (Обновление 1.42 «Торжество Победы» — Закрытая рабочая группа Внешнего Теста)
-[📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Проектная%20работа%20-%20Мир%20танков)
+
+[📄 Смотреть полный отчёт в Google Docs](https://docs.google.com/document/d/1Wr_LtDrAvwvMWr9bVXTgGnk5Thx34IoeaStqhILtvHQ/edit?usp=sharing)  
+[📁 Перейти к папке с артефактами](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Проектная%20работа%20-%20Мир%20танков)
 
 Полный цикл тестирования обновления «Торжество Победы» в составе закрытой группы внешнего тестирования (ComTest).  
 - 📋 Чек-листы (6 разделов, 60+ пунктов)  
@@ -39,7 +41,7 @@
 [📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Базовые%20навыки%20SQL)
 
 Пример работы с MySQL: создание таблиц с внешними ключами, вставка данных с подзапросами, выборка всех записей и фильтрация по производителю.  
-Скрипт демонстрирует понимание SQL на уровне, достаточном для тестировщика.  
+Скрипт демонстрирует понимание SQL на уровне, достаточном для тестировщика.
 
 **🔗 Интерактивная версия (SQL Fiddle):** [https://sqlfiddle.com/mysql/online-compiler?id=c7cc90af-8d9f-4f54-bb62-c300106009d1](https://sqlfiddle.com/mysql/online-compiler?id=c7cc90af-8d9f-4f54-bb62-c300106009d1)
 
