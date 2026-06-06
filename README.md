@@ -39,7 +39,9 @@
 [📁 Перейти к папке](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Базовые%20навыки%20SQL)
 
 Пример работы с MySQL: создание таблиц с внешними ключами, вставка данных с подзапросами, выборка всех записей и фильтрация по производителю.  
-Скрипт демонстрирует понимание SQL на уровне, достаточном для тестировщика.
+Скрипт демонстрирует понимание SQL на уровне, достаточном для тестировщика.  
+
+**🔗 Интерактивная версия (SQL Fiddle):** [https://sqlfiddle.com/mysql/online-compiler?id=c7cc90af-8d9f-4f54-bb62-c300106009d1](https://sqlfiddle.com/mysql/online-compiler?id=c7cc90af-8d9f-4f54-bb62-c300106009d1)
 
 ---
 
