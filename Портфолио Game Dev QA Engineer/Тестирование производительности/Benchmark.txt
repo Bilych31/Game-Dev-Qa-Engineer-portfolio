@@ -1,0 +1,6 @@
+06-06-2026, 22:02:22 Tanki.exe benchmark completed, 47337 frames rendered in 271.172 s
+                     Average framerate  :  174.5 FPS
+                     Minimum framerate  :  142.7 FPS
+                     Maximum framerate  :  213.7 FPS
+                     1% low framerate   :   97.8 FPS
+                     0.1% low framerate :   36.2 FPS
