@@ -9,7 +9,7 @@
 - ✅ коллекции API-запросов (Postman), автотест Unity PlayMode (C#)
 - ✅ анализ требований GDD, сравнительный анализ платформ, оценка трудозатрат
 
-**📄 Резюме:** [ссылка на Google Docs](https://docs.google.com/document/d/11bY0WCDR8ijgPv-EgjiyfRj0-Fx9NToIoQqUW80ZPyY/edit?tab=t.0)  
+**📄 Резюме:** [Билыч Данил](https://docs.google.com/document/d/11bY0WCDR8ijgPv-EgjiyfRj0-Fx9NToIoQqUW80ZPyY/edit?tab=t.0)  
 **📱 Контакты:** [Telegram](https://t.me/bilych31) | +7 (919) 288-28-50 | artbilych@yandex.ru
 
 ---
