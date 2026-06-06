@@ -19,7 +19,7 @@
 ### 1. ⭐ Проектная работа: Полное тестирование «Мир Танков» (Обновление 1.42 «Торжество Победы» — Закрытая рабочая группа Внешнего Теста)
 
 [📄 Смотреть полный отчёт в Google Docs](https://docs.google.com/document/d/1Wr_LtDrAvwvMWr9bVXTgGnk5Thx34IoeaStqhILtvHQ/edit?usp=sharing)  
-[📁 Перейти к папке с артефактами](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Проектная%20работа%20-%20Мир%20танков)
+[📁 Перейти к папке с проектной работой](https://github.com/Bilych31/Game-Dev-Qa-Engineer-portfolio/tree/main/Портфолио%20Game%20Dev%20QA%20Engineer/Проектная%20работа%20-%20Мир%20танков)
 
 Полный цикл тестирования обновления «Торжество Победы» в составе закрытой группы внешнего тестирования (ComTest).  
 - 📋 Чек-листы (6 разделов, 60+ пунктов)  
